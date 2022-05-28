@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 from pathlib import Path
 
+import os
+
 from my_settings import DATABASES, SECRETKEY
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
