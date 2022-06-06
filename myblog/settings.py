@@ -44,7 +44,8 @@ INSTALLED_APPS = [
 
     'taggit',  # package app
 
-    'blog.apps.BlogConfig'
+    'blog.apps.BlogConfig',
+    'accounts.apps.AccountsConfig'
 ]
 
 MIDDLEWARE = [
@@ -134,3 +135,5 @@ STATICFILES_DIR = [os.path.join(BASE_DIR, 'static')]
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 TAGGIT_CASE_INSENSITIVE = True
+
+AUTH_USER_MODEL = 'accounts.User'  # table 등록시 app name, model name
