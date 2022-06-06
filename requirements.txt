@@ -1,0 +1,20 @@
+asgiref==3.5.2
+astroid @ file:///opt/concourse/worker/volumes/live/ae03cca1-3196-4728-484b-27a480b0ea63/volume/astroid_1639044247852/work
+autopep8 @ file:///opt/conda/conda-bld/autopep8_1650463822033/work
+backports.zoneinfo==0.2.1
+certifi==2022.5.18.1
+Django==4.0.4
+django-taggit==3.0.0
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+lazy-object-proxy @ file:///opt/concourse/worker/volumes/live/e4bc3ba3-f365-4387-5772-cbb667714c62/volume/lazy-object-proxy_1616529072711/work
+mccabe==0.6.1
+mysqlclient==2.1.0
+platformdirs @ file:///tmp/build/80754af9/platformdirs_1638968569495/work
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pylint @ file:///opt/concourse/worker/volumes/live/9755d91d-3218-4666-5742-79882ad4950e/volume/pylint_1647959889561/work
+pylint-django==2.5.3
+pylint-plugin-utils==0.7
+sqlparse==0.4.2
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+wrapt @ file:///opt/concourse/worker/volumes/live/44cb0d08-9295-4ea1-6561-bec2dc079522/volume/wrapt_1638433869252/work
